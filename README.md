@@ -1,6 +1,6 @@
 # Design Patterns
 
-![](https://github.com/Lylio/image-repo/blob/master/books-covers/head-first-design-patterns.png?raw=true)
+![](https://github.com/Lylio/image-repo/blob/master/book-covers/head-first-design-patterns.png?raw=true)
 
 ### Description
 
