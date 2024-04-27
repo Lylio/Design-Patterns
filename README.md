@@ -1,5 +1,7 @@
 # Design Patterns
 
+![](https://github.com/Lylio/image-repo/blob/master/books-covers/head-first-design-patterns.png?raw=true)
+
 ### Description
 
 Coming soon.
