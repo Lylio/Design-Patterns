@@ -4,7 +4,7 @@
 
 ### Description
 
-Coming soon.
+Based on 'Design Patterns' (O'Reilly 2020)
 
 ### Tech Stack
 
@@ -24,5 +24,3 @@ Coming soon.
 
 #### Acknowledgements
 The cool repo badges, logos and code stats on this README are courtesy of [Simple Icons](https://simpleicons.org) and [Shields.io](https://shields.io).
-
-Based on 'Design Patterns' (O'Reilly 2020)
